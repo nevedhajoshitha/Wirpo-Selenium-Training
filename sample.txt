@@ -1,4 +1,5 @@
 This is a sample file to push in git.
+editing this line for merging purpose.
 This is a new line that is modified
 Code is modified in remote
 This is a new version
