@@ -1,4 +1,4 @@
 This is a sample file to push in git.
-This is a new line added after first push of code.
+This is a new line that is modified
 Code is modified in remote
 This is a new version
